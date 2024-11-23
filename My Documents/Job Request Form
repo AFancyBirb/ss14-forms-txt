@@ -23,6 +23,7 @@ Service:
 \[  ] Librarian
 \[  ] Mime
 \[  ] Musician
+\[  ] Zookeeper
 \[  ] Service Worker
 
 Cargo:
@@ -38,11 +39,11 @@ Security
 \[  ] Security Cadet*
 \[  ] Security Officer*
 \[  ] Detective*
-\[  ] Warden*
 
 Medical
 \[  ] Chemist*
 \[  ] Medical Doctor*
+\[  ] Psychologist*
 \[  ] Medical Intern
 
 Science
