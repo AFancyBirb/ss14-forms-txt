@@ -2,51 +2,58 @@
 [color=#889B76]       █─▄▄▄▄█─▄▄─█▄─▄─▀█▄─▄███▄─▄█▄─▀█▄─▄█[/color]
 [color=#5A6047]       █─██▄─█─██─██─▄─▀██─██▀██─███─█▄▀─██[/color]
 [color=#015B52]       ▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▄▄▄▀▀▄▄▀[/color]
-[color=black]▒█▒█▒█▒                        [color=#134975][head=2]McCargo Menu[/head][/color]
-█▒█▒█▒█      [color=green][bold](0)[/bold][/color]: Easy to make / common ingredients.
-   █████         [color=blue][bold](1)[/bold][/color]: Harder recipe / uncommon ingredients.
-   █████         [color=red][bold](2)[/bold][/color]: Difficult to make / rare ingredients.
-                                 [color=purple](★)[/color] Are my personal favorites!
-[/color] If you want your order done quickly, choose from [color=green][bold](0)[/bold][/color] / [color=blue][bold](1)[/bold][/color]!
-─────────────────────────────────────────
+[color=black]▒█▒█▒█▒                        
+█▒█▒█▒█      [color=#134975][head=2]McCargo Menu[/head][/color]
+   █████         
+   █████         
+────────────────────────────────────
 [head=3]Burgers:[/head]
-[color=green][bold](0)[/bold][/color] Plain burger [color=purple](★)[/color]        [color=blue][bold](1)[/bold][/color] Big Bite burger
-  |  Cheese burger            |   Five alarm burger
-  |  Tofu burger                 |   Empowered burger [color=purple](★)[/color]
-                                              |   Rat burger
-                                              |   Mcguffin
- [head=3]Meat:[/head]
-[color=green][bold](0)[/bold][/color] Enchiladas                   [color=blue][bold](1)[/bold][/color] Fiesta kebab
-  |  BBQ ribs                        |   Rat kaebab
-  |  Meat kebab                  |   BBQ rib sandwich [color=purple](★)[/color]
-  |  Steak                              |   Soft taco
+[color=green][bold]Plain burger - $1000[/bold][/color]      [color=blue][bold]Big Bite burger - $2500[/bold][/color]
+   |   Cheeseburger            |   Fivealarmburger
+   |   Tofuburger                 |   Empowered burger
+   |   Chicken Sandwhich  |   Mcguffin
+                                              
+ [head=3]Tacos:[/head]
+[color=green][bold]Basic Tacos - $1000[/bold][/color]         [color=blue][bold]Taco Supremes - $2500[/bold][/color]
+   |  Beef Taco                      |   Beef Taco Superem
+   |  Chicken taco                |   Chicken Taco Supreme [color=purple](★)[/color]
 
-[head=3]Chefs special:[/head]
-[color=green][bold](0)[/bold][/color] Boiled rice [color=purple](★)[/color]            [color=blue][bold](1)[/bold][/color] Egg-fried rice
-  |  Rice and pork               |   Beef taco supreme
-  |  Beef taco
+
+[head=3]Drinks:[/head]
+[color=green][bold]Fountain Drinks - $300[/bold][/color]   [color=blue][bold]Alcohol - $500[/bold][/color]
+   |  Space Mountain Wild |  Tequila Sunrise[color=purple](★)[/color]
+   |  Red Bool                        |  Margarita
+   |  Cola                                 |  Long Island Ice Tea
+   |  Root Beer                      |  Brave Bull
+   |  Bubble Tea                    |  Classic Martini
+   | Arnold Palmer               | Devil's Kiss
+   | Off-Menu Drinks (Can be denied) - Price Varies
 
 [head=3]Sides:[/head]
-[color=green][bold](0)[/bold][/color] Fries [color=purple](★)[/color]
-  |  Onion rings
-  |  Cheesy fries
-  |  Bar of gold
-  |  Bagel [color=purple](★)[/color]
+[color=green][bold]All Sides - $500[/bold][/color]
+   |  Fries
+   |  Onion rings
+   |  Cheesy fries
+   |  Bagel [color=purple](★)[/color]
 
-[head=3]Soup:[/head]
-[color=green][bold](0)[/bold][/color] Clowns tears              [color=blue][bold](1)[/bold][/color] Bowl of hot chili
-                                              |   Tomato soup
-                                              |   Meatball soup
-                                              |   Monkey's delight
 [head=3]Dessert:[/head]
-[color=green][bold](0)[/bold][/color] Pancakes                     [color=blue][bold](1)[/bold][/color] Waffles [color=purple](★)[/color]
-  |  Banana bread              |   French toast
-  |  Rice pudding [color=purple](★)[/color]        |   Brownies
-  |  Cake (Chefs choice)
-  |  Pie (Chefs choice)
+[color=green][bold]All Deserts - $1000 [/bold][/color] 
+   |  Banana Bread
+   |  Rice pudding [color=purple](★)[/color]
+   |  Brownies
+   |  Apple Strudel Bite
 
-[head=3]Moth:[/head]
-[color=green][bold](0)[/bold][/color] Cloth / clothing (Chefs choice)
-  |  Fruit (Chefs choice)
+[head=3]Combo Deals:[/head]
+   |  Burger Combo: $1500 for plain, $3000 for Big Bite 
+   ( Burger, Side, Fountain Drink )
+
+   |  Taco Comob: $1500 for plain, $3000 for Supreme
+   ( Taco, Side, Fountain Drink )
+
+   |  Happy Honk Meal: $2500 for plain, $4000 for Big Bite/Supreme
+   ( Burger or Taco, Side, Drink, Dessert, Toy )
+
+   |  McCargo Meal: $5000 
+   ( Burger, Taco, Side, Drink, Dessert, Toy, McCargo Crown )
 
          ★ - Want something not on the menu? Just ask! - ★
