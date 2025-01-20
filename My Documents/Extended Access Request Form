@@ -15,6 +15,9 @@ You must have a stamp from the proper command member to be granted access to tho
 Service:
 \[  ] HoP  |  \[  ] Lawyer  |  \[  ] Bar  |  \[  ] Chapel  |  \[  ] Hydroponics
 \[  ] Janitor  |  \[  ] Service  |  \[  ] External  |  \[  ] Kitchen  |  \[  ] Theatre
+* Chapel access can be approved with a Chaplain's stamp.
+* Clown access can be approved with a Clown stamp.
+* Lawyer access can NOT be approved with a Lawyer stamp.
 
 Cargo:
 \[  ] QM  |  \[  ] Cargo  |  \[  ] Salvage  |  \[  ] External
