@@ -12,11 +12,15 @@ Species:    [color=Indigo]Sample Species[/color]
 Location:    [color=Indigo]Sample Location[/color]
 
 Description: Please provide a detailed description of your construction plans in the space below.
-╒════════════════════════════╕
-
-╞════════════════════════════╡
+╒════════════════════════════╕[color=Indigo]
+Sample Text
+[/color]╞════════════════════════════╡
 
 Reason: Please provide a detailed description of your reason for the project in the space below.
-╒════════════════════════════╕
+╒════════════════════════════╕[color=Indigo]
+Sample Text
+[/color]╞════════════════════════════╡
 
-╞════════════════════════════╡
+This form requires either CE or Captain approval.
+If the location is within a department besides Engineering, the head of that d
+
