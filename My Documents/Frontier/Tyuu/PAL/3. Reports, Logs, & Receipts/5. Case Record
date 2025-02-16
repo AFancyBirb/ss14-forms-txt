@@ -2,7 +2,7 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=1]Case Record[/head][/color]
 [bold]Case #:[/bold]
-
+[color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Suspects[/head]
 
 [head=3]People[/head]
@@ -14,14 +14,6 @@
 02. \[  ] Detained    \[  ]Arrested
 02. Charges Pressed:
 02. Total Sentence: 
-03. Name:
-03. \[  ] Detained    \[  ]Arrested
-03. Charges Pressed: 
-03. Total Sentence: 
-04. Name:
-04. \[  ] Detained    \[  ]Arrested
-04. Charges Pressed: 
-04. Total Sentence: 
 
 [head=3]Vessels[/head]
 A. IFF:
@@ -30,7 +22,18 @@ B. IFF:
 B. \[  ] Searched    \[  ] Impounded
 C. IFF:
 C. \[  ] Searched    \[  ] Impounded
+[color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Documents[/head]
 
+[head=3]Warrants[/head]
+01. \[  ] Search    \[  ] Arrest
+01. Subject:
+01: Shift Time:
+01: Requester:
+02. \[  ] Search    \[  ] Arrest
+02. Subject:
+02: Shift Time:
+02: Requester:
 
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
