@@ -3,25 +3,27 @@
 [head=3][bold][color=Red]PRIORITY DOCUMENT[/head][/bold][/color]
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=1]Witness Affidavit[/head][/color]
-[color=LightGray]This section is to be filled out by the witness and only the witness, no others may write in this section.[/color]
-[bold]Full Name:[/bold]   
-               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[head=2]Involvement[/head]
-[color=LightGray]In the space below, please briefly describe your level of involvement. As in, a victim, accomplice, bystander, etc., being only as specific as you need.[/color]
+
+[bold]Witness's Full Name:[/bold]   
+                                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Each box section is to be filled out by the witness and only the witness, no others may write in those sections.
+
+[head=2][bold]Involvement[/bold][/head]
+[color=Gray]In the space below, please briefly describe your level of involvement. As in, a victim, accomplice, bystander, etc., being only as specific as you need.[/color]
 ╔═══════════════════════════════╗
 
 ╚═══════════════════════════════╝
 Ensure that before signing this document the information in the box above is true.
 
 [head=2]Summary[/head]
-[color=LightGray]In the space below, please briefly summarize the events as you recall them, in the order you recall them. If there is a section you have forgotten or do not remember exactly, please indicate so.[/color]
+[color=Gray]In the space below, please briefly summarize the events as you recall them, in the order you recall them. If there is a section you have forgotten or do not remember exactly, please indicate so.[/color]
 ╔═══════════════════════════════╗
 
 ╚═══════════════════════════════╝
 Ensure that before signing this document the information in the box above is true.
 
 [head=2]Full Length Account[/head]
-[color=LightGray]In the space below, please give a full-length description of the events as you recall them, in the order you recall them. If there is a section you have forgotten or do not remember exactly, please indicate so.[/color]
+[color=Gray]In the space below, please give a full-length description of the events as you recall them, in the order you recall them. If there is a section you have forgotten or do not remember exactly, please indicate so.[/color]
 ╔═══════════════════════════════╗
 
 ╚═══════════════════════════════╝
@@ -29,17 +31,21 @@ Ensure that before signing this document the information in the box above is tru
 
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=1]Clarifications[/head][/color]
-[color=LightGray]This section can be filled out by a legal representative or consultant for the witness, by a representative of the court, or by the witness themselves[/color]
+[color=Gray]This section can be filled out by a legal representative or consultant for the witness, by a representative of the court, or by the witness themselves[/color]
+
 Mark in each box if the associated statement is true. 
 \[  ] This section is being filled by a representative of the witness.
 \[  ] This section is being filled by a representative of the court.
 \[  ] This section is being filled by the witness themselves.
 \[  ] This affidavit was written while the witness was in a safe location
 \[  ] The boxes in the affidavit were written in by the witness, and only the witness.
-\[  ] Before signing this document, this document was not 
+\[  ] Before signing this document, this document was not in the custody of an unathorized holder
+\[  ] Mark this box if the Full Length Account was skipped due to time contraints. 
 
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=3][bold][color=Red]PRIORITY DOCUMENT[/head][/bold][/color]
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
-[color=LightGray]Stipulation[/color]
+[color=Red][bold]Stipulation[bold][/color]
+
+
