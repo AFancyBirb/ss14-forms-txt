@@ -45,6 +45,16 @@ C. \[  ] Searched  \[  ] Impounded
 02. Shift Time:
 02. \[  ] Evidence Seized  \[  ] Charged  \[  ] Sentenced
 
+[head=3]Witness Affidavit[/head]
+01. Name:
+01. Involvement:
+01. \[  ] Representative:
+01. \[  ] Signed: [list all]
+02. Name:
+02. Involvement:
+02. \[  ] Representative:
+02. \[  ] Signed: [list all]
+
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 [color=#AAAAAA]Stipulation[/color]
