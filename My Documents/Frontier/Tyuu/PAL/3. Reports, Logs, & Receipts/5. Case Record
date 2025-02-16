@@ -7,21 +7,21 @@
 
 [head=3]People[/head]
 01. Name:
-01. \[  ] Detained    \[  ]Arrested
+01. \[  ] Detained  \[  ]Arrested
 01. Charges Pressed:
 01. Total Sentence: 
 02. Name:
-02. \[  ] Detained    \[  ]Arrested
+02. \[  ] Detained  \[  ]Arrested
 02. Charges Pressed:
 02. Total Sentence: 
 
 [head=3]Vessels[/head]
 A. IFF:
-A. \[  ] Searched    \[  ] Impounded
+A. \[  ] Searched  \[  ] Impounded
 B. IFF:
-B. \[  ] Searched    \[  ] Impounded
+B. \[  ] Searched  \[  ] Impounded
 C. IFF:
-C. \[  ] Searched    \[  ] Impounded
+C. \[  ] Searched  \[  ] Impounded
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Documents[/head]
 
@@ -31,6 +31,16 @@ C. \[  ] Searched    \[  ] Impounded
 01: Shift Time:
 01: Requester:
 02. \[  ] Search    \[  ] Arrest
+02. Subject:
+02: Shift Time:
+02: Requester:
+
+[head=3]Reports[/head]
+01. \[  ] After Action    \[  ] Arrest
+01. Subject:
+01: Shift Time:
+01: \[  ] Evidence Seized  \[  ] Charge Pressed  \[  ]
+02. \[  ] Search  \[  ] Arrest
 02. Subject:
 02: Shift Time:
 02: Requester:
