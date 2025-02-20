@@ -1,13 +1,13 @@
-[color=DarkGreen]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold]
+[color=DarkGreen]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff Department[/bold]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[head=2]Duty Log[/head][/color]
+[head=1]Duty Log[/head][/color]
 
-[head=3]Sheriff[/head]
+[head=2]Sheriff[/head]
 [bold]Name:[/bold] 
 [bold]Sign On Time:[/bold] 
 [bold]Sign Off Time:[/bold] 
 
-[head=3]Officers[/head]
+[head=2]Officers[/head]
 [bold]Name:[/bold] 
 [bold]Position:[/bold]
 [bold]Sign On Time:[/bold] 
@@ -140,6 +140,6 @@
 
 [color=DarkGreen]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
-[color=#AAAAAA]This Form is considered NT Sensitive Data, and is for internal NFSD use only.[/color]
+[color=Gray]This Form is considered NT Sensitive Data, and is for internal NFSD use only.[/color]
 
 
