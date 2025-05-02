@@ -8,14 +8,20 @@
 [bold]Location of Arrest:[/bold] 
 [bold]Charges:[/bold] 
 
+[bold]Description of Events:[/bold]
+╔═══════════════════════════════╗
+
+╚═══════════════════════════════╝
+
+Overview of Evidence:
+╔═══════════════════════════════╗
+
+╚═══════════════════════════════╝
+
 [head=3]Arrested Person(s)[/head]
 [bold]Name:[/bold] 
 [bold]Description:[/bold] 
-[bold]Fine or Punishment:[/bold] 
-
-[bold]Name:[/bold] 
-[bold]Description:[/bold] 
-[bold]Fine or Punishment:[/bold] 
+[bold]Sentence:[/bold] 
 
 [head=2]Arrestor[/head]
 [bold]Arresting Officer:[/bold] 
