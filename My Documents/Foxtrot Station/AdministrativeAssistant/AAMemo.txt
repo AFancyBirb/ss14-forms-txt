@@ -1,6 +1,5 @@
 [color=#1b67a5]█▄ █ ▀█▀
-█ ▀█     █    [head=3]Station Command[/head]
-- Administrative Assistance
+█ ▀█     █    [head=3]Station Command[/head] - Administrative Assistance
 ╔═════════════════════════════════════════╗
 
 [head=2]Memorandum[/head]
