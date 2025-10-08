@@ -1,6 +1,6 @@
 [color=#1b67a5]█▄ █ ▀█▀
 █ ▀█     █    [head=3]Station Command[/head] - Administrative Assistance
-╔═════════════════════════════════════════╗
+╔════════════════════════════════════════╗
 
 [head=2]Memorandum[/head]
 [/color]
@@ -11,7 +11,7 @@ Body
 
 [color=red]Emphasis[/color]
 
-[color=#1b67a5]╚═════════════════════════════════════════╝[/color]
+[color=#1b67a5]╚════════════════════════════════════════╝[/color]
 
 [color=gray]This message comes from the office of the Administrative Assistant, working on the behalf of Station Command.[/color]
 
