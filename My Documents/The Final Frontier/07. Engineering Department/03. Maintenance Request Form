@@ -1,0 +1,42 @@
+[color=DarkOrange]◥[bold]N[/bold]◣ [bold]Engineering Department[/bold]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=1]Maintenance Request[/head][/color]
+
+[bold]Name:[/bold]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Occupation:[/bold]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Shift Time:[/bold]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=DarkOrange]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪
+
+[head=2]Order Details[/head][/color]
+
+[bold]Location:[/bold]
+\[  ] [bold][color=Firebrick]Security Department[/color][/bold]
+\[  ] [bold][color=SkyBlue]Medical Department[/color][/bold]
+\[  ] [bold][color=Peru]Cargo Department[/color][/bold]
+\[  ] [bold][color=DarkOrchid]Science Department[/color][/bold]
+\[  ] [bold][color=MediumSeaGreen]Service Department[/color][/bold]
+\[  ] [bold][color=SteelBlue]Station Command Areas[/color][/bold]
+\[  ] [bold][color=RoyalBlue]Public Station Areas[/bold][/color]
+\[  ] [bold]Outside The Station[/bold]
+
+[bold]Description:[/bold]
+[color=Grey]Please provide a detailed description of the repair in the space below.[/color]
+╔════════════════════════════════════════╗
+
+╚════════════════════════════════════════╝
+
+[bold]Urgency[/bold]
+[bullet] [bold]Critical Emergency[/bold] - [color=Grey]If the issue is likely to lead to a station-wide disruption and/or is a great risk to the lives of crew members, stop filling out this form, and have your department head or the nearest command member contact the Chief Engineer directly over the command channel.[/color]
+\[  ] [bold]Moderate Emergency[/bold] - [color=Grey]If this issue could lead to a department-wide obstruction of duty, or is likely to cause harm to crew members, with a risk to cause the death of a crew member, mark this box, and have your department head alert the Chief Engineer of the high-priority order. An issue that could lead to a department-wide disruption to Medical Department or Security Department is a Critical Emergency.[/color]
+\[  ] [bold]High Urgency[/bold] - [color=Grey]If this issue prevents a section of a departments, could lead to the disruption of most of a department's duties, or has a risk to cause harm to crew members, mark this box and visit engineering or use the radio to alert engineering of a this order.[/color]
+\[  ] [bold]Moderate Urgency[/bold] - [color=Grey]If this issue prevents a crew member from working, could lead to the disruption of a section of a department's duties, or has a small possibility of causing harm to crew members, mark this box.[/color]
+\[  ] [bold]Low Urgency[/bold] - [color=Grey]If this issue could lead to the disruption of a crew member's duties, mark this box.[/color]
+\[  ] [bold]Minor Annoyance[/bold] - [color=Grey]If this issue has no chance of disrupting work or causing harm, but is still annoying or out of normal order, select this box.[/color]
+
+[color=DarkOrange]──────────────────────────────────────[/color]
+
+[color=Gray]After this form is filled, send it to the Engineering Department to process and respond to. Once someone has been sent to solve the issue, the Chief Engineer should stamp this form, and send it to the Head of Personnel's office to store in records.[/color]
