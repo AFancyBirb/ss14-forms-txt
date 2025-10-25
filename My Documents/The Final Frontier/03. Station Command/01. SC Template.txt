@@ -1,0 +1,13 @@
+[color=SteelBlue]◥[bold]N[/bold]◣ [bold]Station Command[/bold]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=1]Title[/head][/color]
+
+BODY1
+
+[color=SteelBlue]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+BODY2
+
+[color=SteelBlue]──────────────────────────────────────[/color]
+
+[color=Gray]Stipulation[/color]
